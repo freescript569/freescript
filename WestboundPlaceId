@@ -1,1 +1,6 @@
-
+local allowedGameId = 5286116071 
+if game.PlaceId ~= allowedGameId then
+    game.Players.LocalPlayer:Kick("This script can only be run in a specific game.")
+else
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/freescript569/freescript/refs/heads/main/Hunting%20Season%20%5BBETA%5Dmain.lua"))()
+end
