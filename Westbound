@@ -33,7 +33,7 @@
               local UICorner=Instance.new("UICorner");UICorner.CornerRadius=UDim.new(0,10 --[[======================================================================]]);UICorner.   
             Parent=MainFrame;local UIStroke=Instance.new("UIStroke");UIStroke.Thickness=2 --[[======================================================================]];UIStroke.    
           Color=Color3.fromRGB(60,60,60);UIStroke.Parent=MainFrame;local Title=Instance.  --[[======================================================================]]new(          
-        "TextLabel");Title.Parent=MainFrame;Title.Text="Money Dupe V.5";Title.TextColor3= --[[======================================================================]]Color3.       
+        "TextLabel");Title.Parent=MainFrame;Title.Text="AutoFarm Money";Title.TextColor3= --[[======================================================================]]Color3.       
         fromRGB(255,255,255);Title.Font=Enum.Font.GothamBold;Title.TextSize=16;Title.Size --[[======================================================================]]=UDim2.new(1, 
       0,0,30);Title.BackgroundTransparency=1;local CloseButton=Instance.new("TextButton") --[[======================================================================]];CloseButton. 
       Parent=MainFrame;CloseButton.Text="X";CloseButton.Font=Enum.Font.GothamBold;          --[[==================================================================]]CloseButton.    
