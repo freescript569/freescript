@@ -1,4 +1,4 @@
-local allowedGameId = 5286116071 
+local allowedGameId = 2474168535 
 if game.PlaceId ~= allowedGameId then
     game.Players.LocalPlayer:Kick("This script can only be run in a specific game.")
 else
