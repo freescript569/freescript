@@ -1,6 +1,6 @@
 local allowedGames = {
     [5286116071] = "https://raw.githubusercontent.com/freescript569/freescript/refs/heads/main/Hunting%20Season%20%5BBETA%5Dmain.lua",
-    [2474168535] = "https://raw.githubusercontent.com/freescript569/freescript/refs/heads/main/Westboundmain",
+    [2474168535] = "https://raw.githubusercontent.com/freescript569/freescript/refs/heads/main/Westbound",
 }
 
 local placeId = game.PlaceId
